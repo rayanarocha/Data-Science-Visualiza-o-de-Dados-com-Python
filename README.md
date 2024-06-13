@@ -1,6 +1,6 @@
 # Data-Science-Visualiza-o-de-Dados-com-Python
 
-## Configurações básicas para configurar o ambiente sugerido Jupyter Notebook
+## Configurações básicas para instalar o ambiente de desenvolvimento sugerido Jupyter Notebook
 
 <img align="center" alt="Rayo-Jupyter" height="200" width="280" src="https://i.ytimg.com/vi/AuTkAWEa06E/maxresdefault.jpg"/>
 
